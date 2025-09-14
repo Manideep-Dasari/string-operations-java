@@ -24,6 +24,8 @@ A simple console-based program built in Java to perform string operations like *
 ## 🖥️ Sample Output
 ```bash
 Enter a string: madam
+-----Results-----
+Original String: madam
 Reversed String: madam
 Vowels: 2
 Consonants: 3
