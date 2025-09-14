@@ -1,12 +1,7 @@
 # 🔤 String Manipulation in Java
 
 ## 🎯 Objective
-A console-based program to perform **basic string operations** in Java.  
-The program takes user input and:  
-1. Reverses the string using `StringBuilder`  
-2. Counts vowels and consonants using a loop  
-3. Checks if the string is a **palindrome**  
-4. Prints all results
+A simple console-based program built in Java to perform string operations like **reversing**, **counting vowels/consonants**, and checking for **palindrome** using **StringBuilder** and **loops**.  
 
 ---
 
@@ -16,8 +11,6 @@ The program takes user input and:
 - Count vowels and consonants  
 - Check if string equals its reverse (palindrome check)  
 - Display results neatly in the console  
-
----
 
 ---
 
@@ -37,5 +30,20 @@ Consonants: 3
 Palindrome: Yes
 ```
 
-🚀 How to Run
-Clone this repository:
+---
+
+## 📌 Outcome
+- Gained hands-on practice with Java string manipulation using **StringBuilder**, **loops**, and **conditionals**.  
+- Learned to **reverse strings**, **count vowels/consonants**, and implement **palindrome checks**.  
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+```bash
+git clone https://github.com/Manideep-Dasari/string-operations-java.git
+```
+2. Open the project in your IDE.
+3. Run the **Main** class.
+4. Enter a string when prompted and see the results.
+
