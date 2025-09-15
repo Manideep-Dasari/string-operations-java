@@ -46,6 +46,6 @@ Palindrome: Yes
 git clone https://github.com/Manideep-Dasari/string-operations-java.git
 ```
 2. Open the project in your IDE.
-3. Run the **Main** class.
+3. Run the `Main` class.
 4. Enter a string when prompted and see the results.
 
